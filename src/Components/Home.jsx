@@ -1,9 +1,9 @@
 import React from 'react'
-import Navbar from '../Components/Navbar'
-import Banner from '../Components/Banner'
-import Footer from '../Components/Footer'
-import Freebook from '../Components/Freebook'
-import Login from '../Components/Signin'
+import Navbar from './Navbar'
+import Banner from './Banner'
+import Footer from './Footer'
+import Freebook from './Freebook'
+import Login from './Signin'
 const Home = () => {
   return (
     <>

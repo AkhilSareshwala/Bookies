@@ -1,10 +1,11 @@
 import React from 'react';
-import Home from './home/Home';
-import Courses from './courses/Courses';
+import Home from './Components/Home';
+import Courses from './Components/Courses';
 import Login from './Components/Login';
 import Signin from './Components/Signin';
 import Contact from './Components/Contacts';
 import About from './Components/About';
+import Navbar from './Components/Navbar';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 
 const App = () => {
