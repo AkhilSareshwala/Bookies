@@ -10,6 +10,7 @@ const Signin = () => {
     // Handle form submission logic here
     console.log("Email:", email);
     console.log("Password:", password);
+    alert('Thanks For Submitting')
   };
 
   return (
@@ -60,7 +61,7 @@ const Signin = () => {
         </form>
         
         <p className="mt-3 text-center text-gray-700 dark:text-gray-400">
-          Already have an account? <a href="/login" className="hover:text-blue-400 hover:font-bold dark:hover:text-blue-300">Login</a>
+          Already have an account? <a href="/Bookies/login" className="hover:text-blue-400 hover:font-bold dark:hover:text-blue-300">Login</a>
         </p>
       </div>
     </dialog>

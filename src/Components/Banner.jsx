@@ -6,9 +6,13 @@ const Banner = () => {
         <div className='  max-w-screen-2xl container  md:flex-row flex-col mx-auto md:px-20 px-4 flex'>
             <div className='md:w-1/2 w-screen  md:mt-[150px] space-y-10 pt-18 md:order-1 order-2'>
                 <div className='md:text-5xl text-3xl'>
-                    <h1>Hello, welcomes here to learn something <span className='text-pink-400'>new everyday!!</span></h1>
+                    <h1>Welcome to Bookipedia, learn something <span className='text-pink-400'>new everyday!!</span></h1>
                 </div>
-                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sit expedita consectetur illum iusto, nulla alias asperiores. Sequi facilis laudantium id reiciendis autem debitis esse accusantium beatae totam animi. Quam, nulla.</p>
+                <p>At our platform, we believe that learning should never stop! Whether
+            you're here to sharpen your skills or explore something completely
+            new, we've got a variety of resources to support your journey. Our
+            community is built for lifelong learners who thrive on growth and
+            creativity.</p>
                 <div>
                 <label className="input input-bordered flex items-center gap-2">
                     <svg

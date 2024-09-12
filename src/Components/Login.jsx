@@ -14,7 +14,7 @@ const Login = () => {
     <div className="flex flex-col items-center justify-center min-h-screen bg-gray-800 p-4">
       <div className="max-w-md w-full p-6 bg-white rounded-lg shadow-lg relative">
         <button
-          onClick={() => window.location.href = "/"}
+          onClick={() => window.location.href = "/Bookies"}
           className="absolute top-4 right-4 text-3xl text-gray-600 hover:text-gray-900"
         >
           <IoCloseSharp className="hover:text-red-500" />

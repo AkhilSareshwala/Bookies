@@ -25,17 +25,17 @@ function Navbar() {
   const navItems = (
     <>
       <li className="hover:scale-105 duration-300 hover:text-red-300 text-xl">
-        <a href="/">Home</a>
+        <a href="/Bookies">Home</a>
       </li>
       
       <li className="hover:scale-105 duration-300 hover:text-red-300 text-xl">
-        <a>Contact</a>
+      <a href="/Bookies/contact">Contact</a>
       </li>
       <li className="hover:scale-105 duration-300 hover:text-red-300 text-xl">
-        <a>About</a>
+      <a href="/Bookies/about">About</a>
       </li>
       <li className="hover:scale-105 duration-300 text-yellow-600 text-xl hover:text-yellow-800">
-        <a href="/course">Premium <FaCrown/></a>
+        <a href="/Bookies/course">Premium <FaCrown/></a>
       </li>
     </>
   );
