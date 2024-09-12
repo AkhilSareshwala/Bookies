@@ -11,12 +11,13 @@ const App = () => {
   return (
     <BrowserRouter>
       <Routes>
-        <Route path='/Bookies/' element={<Home />} />
-        <Route path='/Bookies/course' element={<Courses />} />
-        <Route path='/Bookies/contact' element={<Contact />} />
-        <Route path='/Bookies/about' element={<About />} />
-        <Route path='/Bookies/login' element={<Login />} />
-        <Route path='/Bookies/signin' element={<Signin />} /> {/* Ensure route matches case sensitivity */}
+        <Route path='/Bookies' element={<Home />} />
+        <Route path='' element={<Home />} />
+        <Route path='/course' element={<Courses />} />
+        <Route path='/contact' element={<Contact />} />
+        <Route path='/about' element={<About />} />
+        <Route path='/login' element={<Login />} />
+        <Route path='/signin' element={<Signin />} /> {/* Ensure route matches case sensitivity */}
       </Routes>
     </BrowserRouter>
   );

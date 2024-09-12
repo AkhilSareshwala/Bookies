@@ -29,13 +29,13 @@ function Navbar() {
       </li>
       
       <li className="hover:scale-105 duration-300 hover:text-red-300 text-xl">
-      <a href="/Bookies/contact">Contact</a>
+      <a href="/contact">Contact</a>
       </li>
       <li className="hover:scale-105 duration-300 hover:text-red-300 text-xl">
-      <a href="/Bookies/about">About</a>
+      <a href="/about">About</a>
       </li>
       <li className="hover:scale-105 duration-300 text-yellow-600 text-xl hover:text-yellow-800">
-        <a href="/Bookies/course">Premium <FaCrown/></a>
+        <a href="/course">Premium <FaCrown/></a>
       </li>
     </>
   );
