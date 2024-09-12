@@ -1,0 +1,114 @@
+[
+    {
+        "id": 1,
+        "title": "Pride and Prejudice",
+        "price": 0,
+        "category": "Free",
+        "description": "A classic novel by Jane Austen that explores themes of love and social standing.",
+        "image": "https://img.freepik.com/free-vector/red-text-book-closed-icon_18591-82397.jpg?t=st=1723901638~exp=1723905238~hmac=c56ed703a5105227244626e963011c65d7a5c71a120c4326d269865a38abc2a5&w=740"
+    },
+    {
+        "id": 2,
+        "title": "Moby-Dick",
+        "price": 0,
+        "category": "Free",
+        "description": "Herman Melville's epic tale of obsession and adventure on the high seas.",
+        "image": "https://img.freepik.com/free-vector/red-text-book-closed-icon_18591-82397.jpg?t=st=1723901638~exp=1723905238~hmac=c56ed703a5105227244626e963011c65d7a5c71a120c4326d269865a38abc2a5&w=740"
+    },
+    {
+        "id": 3,
+        "title": "1984",
+        "price": 0,
+        "category": "Free",
+        "description": "George Orwell's dystopian novel about totalitarianism and surveillance.",
+        "image": "https://img.freepik.com/free-vector/red-text-book-closed-icon_18591-82397.jpg?t=st=1723901638~exp=1723905238~hmac=c56ed703a5105227244626e963011c65d7a5c71a120c4326d269865a38abc2a5&w=740"
+    },
+    {
+        "id": 4,
+        "title": "To Kill a Mockingbird",
+        "price": 0,
+        "category": "Free",
+        "description": "Harper Lee's novel addressing serious issues like racial injustice and moral growth.",
+        "image": "https://img.freepik.com/free-vector/red-text-book-closed-icon_18591-82397.jpg?t=st=1723901638~exp=1723905238~hmac=c56ed703a5105227244626e963011c65d7a5c71a120c4326d269865a38abc2a5&w=740"
+    },
+    {
+        "id": 5,
+        "title": "The Great Gatsby",
+        "price": 0,
+        "category": "Free",
+        "description": "F. Scott Fitzgerald's critique of the American Dream through the life of Jay Gatsby.",
+        "image": "https://img.freepik.com/free-vector/red-text-book-closed-icon_18591-82397.jpg?t=st=1723901638~exp=1723905238~hmac=c56ed703a5105227244626e963011c65d7a5c71a120c4326d269865a38abc2a5&w=740"
+    },
+    {
+        "id": 6,
+        "title": "Jane Eyre",
+        "price": 0,
+        "category": "Free",
+        "description": "Charlotte Brontë's novel about the struggles and growth of an orphaned girl.",
+        "image": "https://img.freepik.com/free-vector/red-text-book-closed-icon_18591-82397.jpg?t=st=1723901638~exp=1723905238~hmac=c56ed703a5105227244626e963011c65d7a5c71a120c4326d269865a38abc2a5&w=740"
+    },
+    {
+        "id": 7,
+        "title": "Wuthering Heights",
+        "price": 0,
+        "category": "Free",
+        "description": "Emily Brontë's dark and passionate tale of love and revenge.",
+        "image": "https://img.freepik.com/free-vector/red-text-book-closed-icon_18591-82397.jpg?t=st=1723901638~exp=1723905238~hmac=c56ed703a5105227244626e963011c65d7a5c71a120c4326d269865a38abc2a5&w=740"
+    },
+    {
+        "id": 8,
+        "title": "Frankenstein",
+        "price": 0,
+        "category": "Free",
+        "description": "Mary Shelley's tale of a scientist and his monstrous creation, exploring themes of ambition.",
+        "image": "https://img.freepik.com/free-vector/red-text-book-closed-icon_18591-82397.jpg?t=st=1723901638~exp=1723905238~hmac=c56ed703a5105227244626e963011c65d7a5c71a120c4326d269865a38abc2a5&w=740"
+    },
+    {
+        "id": 9,
+        "title": "Dracula",
+        "price": 0,
+        "category": "Free",
+        "description": "Bram Stoker's iconic gothic novel about the infamous vampire Count Dracula.",
+        "image": "https://img.freepik.com/free-vector/red-text-book-closed-icon_18591-82397.jpg?t=st=1723901638~exp=1723905238~hmac=c56ed703a5105227244626e963011c65d7a5c71a120c4326d269865a38abc2a5&w=740"
+    },
+    {
+        "id": 10,
+        "title": "The Count of Monte Cristo",
+        "price": 0,
+        "category": "Free",
+        "description": "Alexandre Dumas' epic adventure of revenge and redemption.",
+        "image": "https://img.freepik.com/free-vector/red-text-book-closed-icon_18591-82397.jpg?t=st=1723901638~exp=1723905238~hmac=c56ed703a5105227244626e963011c65d7a5c71a120c4326d269865a38abc2a5&w=740"
+    },
+    {
+        "id": 11,
+        "title": "Dune",
+        "price": 14.99,
+        "category": "Science Fiction",
+        "description": "Frank Herbert's epic novel set on the desert planet Arrakis with political intrigue.",
+        "image": "https://img.freepik.com/free-vector/red-text-book-closed-icon_18591-82397.jpg?t=st=1723901638~exp=1723905238~hmac=c56ed703a5105227244626e963011c65d7a5c71a120c4326d269865a38abc2a5&w=740"
+    },
+    {
+        "id": 12,
+        "title": "The Road",
+        "price": 9.99,
+        "category": "Post-Apocalyptic",
+        "description": "Cormac McCarthy's harrowing tale of a father and son's survival in a bleak world.",
+        "image": "https://img.freepik.com/free-vector/red-text-book-closed-icon_18591-82397.jpg?t=st=1723901638~exp=1723905238~hmac=c56ed703a5105227244626e963011c65d7a5c71a120c4326d269865a38abc2a5&w=740"
+    },
+    {
+        "id": 13,
+        "title": "Brave New World",
+        "price": 11.99,
+        "category": "Dystopian",
+        "description": "Aldous Huxley's vision of a future society characterized by technological and societal control.",
+        "image": "https://img.freepik.com/free-vector/red-text-book-closed-icon_18591-82397.jpg?t=st=1723901638~exp=1723905238~hmac=c56ed703a5105227244626e963011c65d7a5c71a120c4326d269865a38abc2a5&w=740"
+    },
+    {
+        "id": 14,
+        "title": "Neuromancer",
+        "price": 13.99,
+        "category": "Cyberpunk",
+        "description": "William Gibson's seminal work that defines the cyberpunk genre with its virtual reality and hacking.",
+        "image": "https://img.freepik.com/free-vector/red-text-book-closed-icon_18591-82397.jpg?t=st=1723901638~exp=1723905238~hmac=c56ed703a5105227244626e963011c65d7a5c71a120c4326d269865a38abc2a5&w=740"
+    }
+]

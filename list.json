@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1,
+        "title": "Pride and Prejudice",
+        "price": 0,
+        "category": "Free",
+        "description": "A classic novel by Jane Austen that explores themes of love and social standing.",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1723889475~exp=1723893075~hmac=1ecd2122c5b239aaca768dd602e8ad1ecae390641e84cb6c65e49c9b3ca23caf&w=740"
+    },
+    {
+        "id": 2,
+        "title": "Moby-Dick",
+        "price": 0,
+        "category": "Free",
+        "description": "Herman Melville's epic tale of obsession and adventure on the high seas.",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1723889475~exp=1723893075~hmac=1ecd2122c5b239aaca768dd602e8ad1ecae390641e84cb6c65e49c9b3ca23caf&w=740"
+    },
+    {
+        "id": 3,
+        "title": "1984",
+        "price": 0,
+        "category": "Free",
+        "description": "George Orwell's dystopian novel about totalitarianism and surveillance.",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1723889475~exp=1723893075~hmac=1ecd2122c5b239aaca768dd602e8ad1ecae390641e84cb6c65e49c9b3ca23caf&w=740"
+    },
+    {
+        "id": 4,
+        "title": "To Kill a Mockingbird",
+        "price": 0,
+        "category": "Free",
+        "description": "Harper Lee's novel addressing serious issues like racial injustice and moral growth.",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1723889475~exp=1723893075~hmac=1ecd2122c5b239aaca768dd602e8ad1ecae390641e84cb6c65e49c9b3ca23caf&w=740"
+    },
+    {
+        "id": 5,
+        "title": "The Great Gatsby",
+        "price": 0,
+        "category": "Free",
+        "description": "F. Scott Fitzgerald's critique of the American Dream through the life of Jay Gatsby.",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1723889475~exp=1723893075~hmac=1ecd2122c5b239aaca768dd602e8ad1ecae390641e84cb6c65e49c9b3ca23caf&w=740"
+    },
+    {
+        "id": 6,
+        "title": "Jane Eyre",
+        "price": 0,
+        "category": "Free",
+        "description": "Charlotte Brontë's novel about the struggles and growth of an orphaned girl.",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1723889475~exp=1723893075~hmac=1ecd2122c5b239aaca768dd602e8ad1ecae390641e84cb6c65e49c9b3ca23caf&w=740"
+    },
+    {
+        "id": 7,
+        "title": "Wuthering Heights",
+        "price": 0,
+        "category": "Free",
+        "description": "Emily Brontë's dark and passionate tale of love and revenge.",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1723889475~exp=1723893075~hmac=1ecd2122c5b239aaca768dd602e8ad1ecae390641e84cb6c65e49c9b3ca23caf&w=740"
+    },
+    {
+        "id": 8,
+        "title": "Frankenstein",
+        "price": 0,
+        "category": "Free",
+        "description": "Mary Shelley's tale of a scientist and his monstrous creation, exploring themes of ambition.",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1723889475~exp=1723893075~hmac=1ecd2122c5b239aaca768dd602e8ad1ecae390641e84cb6c65e49c9b3ca23caf&w=740"
+    },
+    {
+        "id": 9,
+        "title": "Dracula",
+        "price": 0,
+        "category": "Free",
+        "description": "Bram Stoker's iconic gothic novel about the infamous vampire Count Dracula.",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1723889475~exp=1723893075~hmac=1ecd2122c5b239aaca768dd602e8ad1ecae390641e84cb6c65e49c9b3ca23caf&w=740"
+    },
+    {
+        "id": 10,
+        "title": "The Count of Monte Cristo",
+        "price": 0,
+        "category": "Free",
+        "description": "Alexandre Dumas' epic adventure of revenge and redemption.",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1723889475~exp=1723893075~hmac=1ecd2122c5b239aaca768dd602e8ad1ecae390641e84cb6c65e49c9b3ca23caf&w=740"
+    },
+    {
+        "id": 11,
+        "title": "Dune",
+        "price": 14.99,
+        "category": "Science Fiction",
+        "description": "Frank Herbert's epic novel set on the desert planet Arrakis with political intrigue.",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1723889475~exp=1723893075~hmac=1ecd2122c5b239aaca768dd602e8ad1ecae390641e84cb6c65e49c9b3ca23caf&w=740"
+    },
+    {
+        "id": 12,
+        "title": "The Road",
+        "price": 9.99,
+        "category": "Post-Apocalyptic",
+        "description": "Cormac McCarthy's harrowing tale of a father and son's survival in a bleak world.",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1723889475~exp=1723893075~hmac=1ecd2122c5b239aaca768dd602e8ad1ecae390641e84cb6c65e49c9b3ca23caf&w=740"
+    },
+    {
+        "id": 13,
+        "title": "Brave New World",
+        "price": 11.99,
+        "category": "Dystopian",
+        "description": "Aldous Huxley's vision of a future society characterized by technological and societal control.",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1723889475~exp=1723893075~hmac=1ecd2122c5b239aaca768dd602e8ad1ecae390641e84cb6c65e49c9b3ca23caf&w=740"
+    },
+    {
+        "id": 14,
+        "title": "Neuromancer",
+        "price": 13.99,
+        "category": "Cyberpunk",
+        "description": "William Gibson's seminal work that defines the cyberpunk genre with its virtual reality and hacking.",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1723889475~exp=1723893075~hmac=1ecd2122c5b239aaca768dd602e8ad1ecae390641e84cb6c65e49c9b3ca23caf&w=740"
+    },
+    {
+        "id": 15,
+        "title": "Snow Crash",
+        "price": 10.99,
+        "category": "Cyberpunk",
+        "description": "Neal Stephenson's fast-paced narrative involving virtual reality and a hyper-commercialized future.",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1723889475~exp=1723893075~hmac=1ecd2122c5b239aaca768dd602e8ad1ecae390641e84cb6c65e49c9b3ca23caf&w=740"
+    },
+    {
+        "id": 16,
+        "title": "Foundation",
+        "price": 12.99,
+        "category": "Science Fiction",
+        "description": "Isaac Asimov's influential series about the rise and fall of civilizations in a futuristic galaxy.",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1723889475~exp=1723893075~hmac=1ecd2122c5b239aaca768dd602e8ad1ecae390641e84cb6c65e49c9b3ca23caf&w=740"
+    },
+    {
+        "id": 17,
+        "title": "Hyperion",
+        "price": 15.99,
+        "category": "Science Fiction",
+        "description": "Dan Simmons' novel weaving together multiple narratives in a universe on the brink of crisis.",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1723889475~exp=1723893075~hmac=1ecd2122c5b239aaca768dd602e8ad1ecae390641e84cb6c65e49c9b3ca23caf&w=740"
+    },
+    {
+        "id": 18,
+        "title": "Ender's Game",
+        "price": 9.99,
+        "category": "Science Fiction",
+        "description": "Orson Scott Card's tale of a young prodigy training for a future interstellar war.",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1723889475~exp=1723893075~hmac=1ecd2122c5b239aaca768dd602e8ad1ecae390641e84cb6c65e49c9b3ca23caf&w=740"
+    },
+    {
+        "id": 19,
+        "title": "The Hitchhiker's Guide to the Galaxy",
+        "price": 8.99,
+        "category": "Science Fiction",
+        "description": "Douglas Adams' humorous take on space travel and the absurdity of life.",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1723889475~exp=1723893075~hmac=1ecd2122c5b239aaca768dd602e8ad1ecae390641e84cb6c65e49c9b3ca23caf&w=740"
+    },
+    {
+        "id": 20,
+        "title": "Altered Carbon",
+        "price": 14.49,
+        "category": "Cyberpunk",
+        "description": "Richard K. Morgan's gritty novel about consciousness and identity in a future where bodies are interchangeable.",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1723889475~exp=1723893075~hmac=1ecd2122c5b239aaca768dd602e8ad1ecae390641e84cb6c65e49c9b3ca23caf&w=740"
+    }
+]
